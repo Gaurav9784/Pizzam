@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Pizzam',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        
+        scaffoldBackgroundColor: Colors.white,
         primarySwatch: Colors.red,
         primaryColor: Colors.redAccent,
         visualDensity: VisualDensity.adaptivePlatformDensity,
